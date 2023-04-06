@@ -12,6 +12,7 @@ const App = () => {
         <img src="http://www.google.com/google.jpg" alt="" />
       </Photo>
 
+
     </div>
   )
 }
