@@ -7,8 +7,7 @@ const App = () => {
   const[numero, setNumero] = useState(0);
 
   const handleButtonClick = () => {
-    let num = numero;
-    setNumero(num+=10);
+    setNumero(numero+10);
   }
 
   return (
